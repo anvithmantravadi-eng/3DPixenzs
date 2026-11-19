@@ -1,0 +1,1 @@
+{"type":"module","scripts":{"dev":"node scripts/dev.mjs","build":"bash scripts/build.sh","dev:vercel":"vercel dev"},"dependencies":{"@aws-sdk/client-s3":"^3.900.0"},"engines":{"node":"22.x"}}

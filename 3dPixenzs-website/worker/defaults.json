@@ -1,0 +1,197 @@
+{
+  "brand": "3dPixenzs",
+  "tagline": "PRINT STUDIO",
+  "legalName": "",
+  "mailingAddress": "",
+  "phone": "9084154730",
+  "recipientName": "",
+  "heroTitle": "You\u2019ve unlocked\n20% off.",
+  "heroText": "Get your teen a new desk favorite. Choose a 3D-printed fidget or spinner for ages 13+. Adults 18+ place orders and arrange cash payment at handoff.",
+  "heroEyebrow": "FOR PARENTS. FOR YOUR TEEN\u2019S NEXT DESK FAVORITE.",
+  "heroImage": "fidget-campaign.webp",
+  "promoText": "YOUR WELCOME OFFER IS HERE. UNLOCK 20% OFF",
+  "bannerText": "GET YOUR TEEN SOMETHING DIFFERENT.",
+  "bannerDetail": "Ages 13+ \u00b7 Adult buyers 18+ \u00b7 Pay cash at handoff",
+  "collectionTitle": "Find your next favorite.",
+  "footerText": "Small things. Made with intention.",
+  "colors": {
+    "background": "#090909",
+    "text": "#eeeeee",
+    "accent": "#c5a94e",
+    "banner": "#74508e"
+  },
+  "font": "sans",
+  "columns": 3,
+  "heroLayout": "image-right",
+  "cardStyle": "square",
+  "sections": [
+    {
+      "id": "promo",
+      "enabled": true
+    },
+    {
+      "id": "hero",
+      "enabled": true
+    },
+    {
+      "id": "benefits",
+      "enabled": true
+    },
+    {
+      "id": "banner",
+      "enabled": true
+    },
+    {
+      "id": "shop",
+      "enabled": true
+    },
+    {
+      "id": "offer",
+      "enabled": true
+    },
+    {
+      "id": "how",
+      "enabled": true
+    },
+    {
+      "id": "faq",
+      "enabled": true
+    }
+  ],
+  "emailOffer": true,
+  "couponEnabled": true,
+  "couponCode": "WELCOME20",
+  "couponPercent": 20,
+  "shippingCents": 300,
+  "freeShippingOverCents": 2500,
+  "shippingDays": 30,
+  "products": [
+    {
+      "id": "fidget",
+      "name": "Spiderweb Fidget",
+      "description": "Layered. Flexible. Hard to put down.",
+      "details": "A geometric spiderweb fidget with intricate nested layers. Confirm size and available colors before payment. Intended user age 13+. Adult buyer 18+. Keep away from younger children. Confirm the model and materials before use.",
+      "image": "fidget-dark-card.webp",
+      "badge": "ANY 10 FOR $30",
+      "priceCents": 400,
+      "quoteOnly": false,
+      "enabled": true,
+      "bundleQuantity": 10,
+      "bundlePriceCents": 3000,
+      "colors": [
+        "Silver-white"
+      ]
+    },
+    {
+      "id": "top",
+      "name": "Spinning Top",
+      "description": "A clean silhouette. A satisfying little ritual.",
+      "details": "Grip the stem and give your desk break a new spin. Confirm final model, dimensions by text. Image is a concept visualization. Intended user age 13+. Adult buyer 18+. Keep away from younger children. Confirm the model and materials before use.",
+      "image": "top-campaign.webp",
+      "badge": "ANY 10 FOR $30",
+      "priceCents": 400,
+      "quoteOnly": false,
+      "enabled": false,
+      "bundleQuantity": 10,
+      "bundlePriceCents": 3000,
+      "colors": [
+        "Gold",
+        "Silver",
+        "Blue",
+        "Red",
+        "Black",
+        "Green"
+      ]
+    },
+    {
+      "id": "spiral",
+      "name": "Spiral Spinner",
+      "description": "Sculptural spirals. Mesmerizing movement.",
+      "details": "An interlocking spiral concept made for hands-on movement. Confirm final model, dimensions by text. Image is a concept visualization. Intended user age 13+. Adult buyer 18+. Keep away from younger children. Confirm the model and materials before use.",
+      "image": "spiral-campaign.webp",
+      "badge": "ANY 10 FOR $30",
+      "priceCents": 400,
+      "quoteOnly": false,
+      "enabled": false,
+      "bundleQuantity": 10,
+      "bundlePriceCents": 3000,
+      "colors": [
+        "Gold",
+        "Silver",
+        "Blue",
+        "Red",
+        "Black",
+        "Green"
+      ]
+    }
+  ],
+  "policies": {
+    "policies": {
+      "title": "Store policies",
+      "text": "Policy references  These pages were prepared with reference to the  New Jersey Data Privacy Law ,  New Jersey Consumer Fraud Act ,  FTC shipping rule  and  New Jersey sales tax guidance . The store\u2019s size, markets, product classification and actual operations determine which obligations apply."
+    },
+    "shipping": {
+      "title": "Local delivery & pickup",
+      "text": "Current fulfillment  Parcel shipping is off. We accept New Jersey local handoff requests, subject to availability and service-area confirmation. A submitted request does not guarantee that a particular town or delivery location can be served. We agree on the date, location and arrangements with the adult buyer before fulfilling the order.\n\nCash at handoff  The adult buyer pays the confirmed total in cash when receiving the order. The total includes 6.625% New Jersey sales tax on these taxable purchases. There is no online payment or Zelle request in the current checkout.\n\nTiming and changes  We confirm production and handoff timing after reviewing the request. Contact us promptly if you need to change or cancel an arrangement. If we cannot fulfill a confirmed order as agreed, we explain the options and do not collect cash for undelivered products. Any payment already collected is refunded as required.\n\nShipping setting  If the store later enables shipping, destinations, charges and the ship-by period will be disclosed before you commit. Applicable shipping-delay cancellation and refund rights are preserved."
+    },
+    "privacy-rights": {
+      "title": "Privacy requests",
+      "text": "How to make a request  Text  (908) 415-4730  and identify the request and the contact details or order reference we can use to locate the information. You may request access, correction, deletion or a portable copy, opt out of sale, targeted advertising or significant-decision profiling, or appeal a decision. The form below prepares a text for you to review and send. It does not submit automatically.\n\nNew Jersey rights where applicable  The New Jersey Data Privacy Law generally covers controllers targeting New Jersey residents that process at least 100,000 consumers\u2019 data in a calendar year, excluding data used solely to complete a payment, or at least 25,000 consumers\u2019 data while benefiting from its sale. Legal exceptions apply. The store\u2019s actual processing volume has not been established. We will handle requests under the laws that apply and consider other reasonable privacy requests.\n\nResponse, verification and appeals  Where the New Jersey law applies, we respond to a verified request within 45 days and explain any permitted extension of up to 45 additional days within the initial period. We may ask for information reasonably needed to verify access, correction, deletion or copy requests. We do not require a new account. If we decline, we explain why and how to appeal. Send an appeal through the same contact channel. Where required, we provide a written appeal decision within 45 days. You may also  contact New Jersey Consumer Affairs .\n\nAgents, opt-outs and equal treatment  An authorized agent can submit an opt-out request with information sufficient to establish authority as required by law. The store currently has no sale, targeted advertising or significant-decision profiling to opt out of. We honor applicable universal opt-out signals and do not penalize customers for exercising privacy rights. We retain records when required or permitted by law, explaining relevant limits to deletion.\n\nClear data on this device   CLEAR SAVED BAG & EMAIL    This removes the storefront\u2019s local bag and session email. Contact us separately about messages or order records you already sent."
+    },
+    "accessibility": {
+      "title": "Accessibility & support",
+      "text": "Using this store  The storefront provides text labels, keyboard-operable controls, focus indicators and product descriptions. If you experience difficulty reading a page, using a form or preparing an order, text  (908) 415-4730  and describe the task and issue. We can help review products, policies and order details through text.\n\nFeedback  Include the affected page and the type of device or browser when helpful. Please share only the information needed to explain the issue. We will review the report and work to provide a practical way to complete the task. This statement does not claim certification or conformance testing against a particular accessibility standard."
+    },
+    "returns": {
+      "title": "Returns, refunds & cancellations",
+      "text": "CUSTOMER POLICIES\n30-day returns, refunds & cancellations\nRequest a return within 30 days of receiving an unused, undamaged standard product, including discounted purchases. Email anvith206@gmail.com with your order reference or other reasonable proof of purchase.\nLocal returns\nContact us before returning anything. We arrange a confirmed local return handoff; do not use an unconfirmed address. No restocking fee applies. A change-of-mind return does not include any separately paid delivery fee, where permitted.\nDamaged, defective or wrong items\nDescribe the issue and include photos when available. We will arrange an appropriate repair, replacement or refund and cover necessary return costs when the problem is ours. This policy does not limit statutory remedies.\nRefund amount and method\nApproved refunds reflect the amount actually paid for returned products, including refundable tax. Bundle discounts are allocated proportionally. We issue monetary refunds to the original payer in cash at an agreed handoff within five business days after receipt and inspection, unless a shorter legal deadline applies. Mandatory refunds are not limited to store credit.\nCancellations\nRequest cancellation before handoff. We confirm the status; no cash payment is collected online. If shipping is enabled later, shipping terms and applicable cancellation rights will be disclosed before acceptance.\nSupport\nEmail \nAnvith.mantravadI@gmail.com\n. See \nOrder issues\n for complaint handling."
+    },
+    "terms": {
+      "title": "Terms & conditions",
+      "text": "Seller and contact  The storefront is 3dPixenzs Print Studio. Seller legal name \u2014 [legal business name]. Mailing address \u2014 [business mailing address]. Orders and customer support can be addressed to Anvith.mantravadI@gmail.com or (908) 415-4730. Seller details must be finalized before public launch.\n\nAdult buyer and intended product age  Only adults aged 18 or older may place orders. Products are intended for users aged 13+. A parent or guardian can buy for a teen. Age labels and self-declarations do not replace product-safety review.\n\nOrder requests and acceptance  Checkout saves a request and attempts to notify the store by email. A saved request or provider acceptance message does not guarantee stock, service-area coverage or final acceptance. We confirm availability, actual product specifications, final total and local handoff arrangements with the adult buyer before fulfillment.\n\nPrices, tax and payment  Listed products are $4 each, with any 10 mixed pieces for $30 and extra singles at $4. A valid WELCOME20 offer reduces merchandise by 20% before tax. These taxable New Jersey orders add 6.625% sales tax. Payment is cash at the confirmed local handoff. No online payment is collected.\n\nFulfillment  Parcel shipping is disabled unless the published store settings and order confirmation explicitly offer it. Local delivery or pickup is subject to availability and a mutually confirmed arrangement. We confirm changes rather than substituting a different product without approval.\n\nQuality, returns and remedies  Layer lines and minor variations may occur within the agreed specifications. Material defects, wrong items and material misdescription are addressed through the Returns and Case Resolution policies. Standard unused-item returns may be requested within 30 days after receipt. Applicable warranties, statutory remedies and mandatory consumer protections are preserved.\n\nDesign rights  A physical print purchase does not automatically include digital design files, reproduction rights or a commercial license. The store must have the rights required to sell each model.\n\nApplicable law  New Jersey law applies where permitted and mandatory consumer protections remain available. These terms do not impose arbitration or waive statutory remedies. Changes apply prospectively to future orders."
+    },
+    "privacy": {
+      "title": "Privacy notice",
+      "text": "STORE INFORMATION\nPrivacy notice\nUpdated November 18, 2026\nContact and scope\nThis notice covers the storefront, adult ordering forms and owner-only Admin. Contact anvith206@gmail.com or (908) 415-4730 for privacy questions. The seller\u2019s legal business name and mailing address must be supplied before public launch.\nAdult order information\nWe collect the adult buyer\u2019s name, email, phone, New Jersey town, chosen products, colors, quantities, optional handoff details and notes, along with the age and policy declarations. We use this information to review the request, confirm local arrangements, fulfill it, provide support, record cash collection and meet applicable tax and legal obligations. Please do not include a child\u2019s personal information or bank credentials.\nHow we protect order information\n3dPixenzs stores order records on its hosting service. The storefront and Admin use HTTPS, and viewing saved customer names, order details and receipts in Admin requires the store owner\u2019s authorized sign-in. We use this information to fulfill orders, provide support and keep business records. Receipts show the buyer\u2019s name and purchase details. They omit phone numbers and private order notes.\nWhen order notifications are enabled, our email provider may process order and contact details to deliver them to the store inbox. Our hosting and security providers may also process information needed to operate the site. We do not sell customer information.\nBrowser storage\nThe bag and coupon use local storage. The welcome email and adult-entry acknowledgment use session storage. A pending order reference and a hash of the request are stored temporarily to avoid duplicates on retry. Privacy settings include the notice acknowledgment and optional-font preference. See Cookies & storage for controls. The welcome form reveals a code on the page and does not create a marketing subscription.\nOptional services\nOptional Google Fonts loads only after you enable it. The current storefront has no advertising pixels or visitor-analytics tags. We do not sell personal data or use targeted advertising or significant-decision profiling in this implementation.\nRetention and requests\nOrder, tax, payment and support records are retained as needed for fulfillment, legal recordkeeping and disputes. Information no longer needed is deleted unless retention is legally required or permitted. Use Privacy requests for access, correction, deletion, copy, opt-out or appeal requests where applicable. We may retain records required by law when responding to deletion requests.\nChildren\nThe forms and checkout are for adults aged 18 or older. We do not knowingly collect personal information online from children under 13. A parent or guardian may contact us if a child supplied information. The age checkbox is a self-declaration and does not establish identity.\nPolicy changes\nWe update the date and provide notice of material changes before applying new practices where required. New uses requiring consent will be presented before they start."
+    },
+    "safety": {
+      "title": "Product care & safety",
+      "text": "Intended use  This catalog offers Spiderweb Fidgets, Spinning Tops and Spiral Spinners for adult use. Keep small pieces away from young children. Use spinning objects on a stable surface away from faces and fragile items. Confirm material and suitability before use. Use each item according to its listing and packaging. Unless specifically validated and labeled for that use, keep prints away from food and drink, flames, hot surfaces and high heat. Avoid dishwashers and microwaves.\n\nHandling and fit  Keep small parts and broken pieces away from young children and pets. Stop using an item if it cracks, warps or develops sharp edges. Clean with a soft dry cloth or as directed on the product label. Check dimensions, fit and stability before use.\n\nCustom design limits  We accept projects within our verified materials and manufacturing capabilities. We decline designs intended for weapons, medical use, electrical safety, structural loads, food contact or children\u2019s products under this store scope.\n\nReport a safety concern  Stop using the product and contact (908) 415-4730 by text with the product name, order number and a description. We will assess the report and meet any applicable reporting, notice or recall obligations."
+    },
+    "cookies": {
+      "title": "Cookies & browser storage",
+      "text": "CUSTOMER POLICIES\nCookies & browser storage\nUpdated November 18, 2026\nWhat the storefront uses\nOur application code does not set browser cookies. It uses local storage and session storage for the bag, welcome offer and privacy settings. Hosting, authentication and security services may set their own necessary cookies or process connection information. This page describes the storage controlled by this storefront.\nStorage inventory\nName\nType and purpose\nDuration\nstrata-v2\nLocal storage for bag items, colors, quantities and coupon\nUntil you clear site data\nstrata-welcome-email\nSession storage for the email entered in the welcome form, for inclusion in an order request you choose to submit\nBrowser session or until cleared\nstrata-privacy-v1\nLocal storage for your privacy-notice acknowledgment, optional-font preference and the date selected\nSix months or until cleared\ntactelyx-adult-ack\nSession storage for adult-entry declaration\nBrowser session or until cleared\ntactelyx-pending-order\nSession storage for an order request ID and content hash, to avoid duplicates on retry\nUntil a request succeeds or the session ends\nOptional fonts\nGoogle Fonts is the only optional external resource controlled by this storefront. It is off until enabled. When enabled, your browser requests font files from Google and sends the technical information required to make that request. Turning it off removes the font link and stops future requests from this control. It cannot recall information already transmitted or remove files from your browser cache.\nYour controls\nOPEN PRIVACY SETTINGS\n \nCLEAR SAVED BAG & EMAIL\nCore storage is used when you choose to build a bag or enter an email. You can clear it here or block storage in your browser. Blocking it may prevent selections from surviving a refresh. These controls affect this device and browser. They do not delete sent texts, order records, bank transactions or platform authentication cookies.\nOpt-out signals and tracking\nThe current storefront performs no sale of personal data, targeted advertising or significant-decision profiling. When a Global Privacy Control signal is detected, optional fonts stay off and the signal is shown in Privacy settings. We will update these controls and notices before adding optional tracking."
+    },
+    "ip": {
+      "title": "Design rights",
+      "text": "Permission to print  By submitting a design for production, you confirm that you have the rights or permissions needed for us to reproduce it commercially and fulfill your order. If you rely on a third-party license, provide its terms and any required attribution. We may request proof of rights before accepting work.\n\nLimited production permission  For an accepted order, you grant the seller permission to review, prepare and reproduce the design for quoting, producing and fulfilling that order, including use by any disclosed fulfillment provider as needed. You retain your rights in your original design. Portfolio or promotional use requires separate permission.\n\nFiles, modifications and rights concerns  Agree in writing on file delivery, design revisions and ownership of any commissioned design work before starting. To report suspected infringement, contact (908) 415-4730 by text with the specific listing or design, the rights at issue and your contact details. We may pause work or remove listings while we review a report."
+    },
+    "payments": {
+      "title": "Cash payment, pricing & tax",
+      "text": "STORE INFORMATION\nCash payment, pricing & tax\nUpdated November 18, 2026\nCurrent prices\nEach listed print costs $4. Any 10 pieces, mixed across products and available colors, cost $30. Extra singles are $4 each. WELCOME20 reduces the merchandise subtotal by 20% when valid for the order. The discount is applied before tax.\nTax on New Jersey orders\nThese taxable New Jersey orders include sales tax at 6.625%, rounded to the nearest cent at the order level. The tax base is the discounted merchandise subtotal plus taxable delivery charges if any. Cash payment does not make a taxable sale exempt. This checkout currently supports New Jersey local orders.\nCash on delivery\nPayment is collected in cash at the confirmed local handoff. No bank details are requested. Review the itemized total before requesting an order and confirm the final total and arrangements with the store. We provide an order record showing the merchandise, discount, tax and cash due.\nOrder inbox\nOrder notifications are routed to Anvith.mantravadI@gmail.com through the configured email service after inbox activation. The request is also saved for the store. An email provider acceptance message does not guarantee inbox delivery or final order acceptance. We confirm availability and the handoff separately.\nRefunds\nEligible refunds are monetary, generally returned in cash by an agreed arrangement. A store-credit offer does not replace a mandatory monetary refund. See the 30-day Returns policy."
+    },
+    "age-policy": {
+      "title": "Age suitability & adult buyers",
+      "text": "Intended users and buyers  Products are intended for people aged 13 and older. Buyers must be adults aged 18 or older. Parents and guardians may purchase for teens aged 13\u201317. The entry checkbox is a self-declaration, not proof of identity or a safety certification.\n\nProduct use  Keep products and broken pieces away from younger children and pets. Small parts, breakage or sharp edges can present hazards. Stop using a damaged product. Use spinning items on a stable surface away from faces, fragile objects and moving machinery. Confirm the actual design, material and dimensions before use.\n\nAdult-focused marketing  Our store addresses adult buyers and parents. \u201cGet your teen a desk favorite\u201d refers to users aged 13+. We do not make therapeutic, anxiety-treatment or other medical claims about fidget products.\n\nSafety review  The manufacturer must assess the actual product, foreseeable use, construction, marketing, labeling and applicable standards. An age label alone does not establish compliance or remove applicable testing, labeling, certification or reporting obligations.\n\nPrivacy  The ordering forms are for adult buyers. We do not ask for a child\u2019s name, birth date, school or other child profile. A parent or guardian can contact Customer Service to report information submitted by a child."
+    },
+    "cases": {
+      "title": "Order issues & case resolution",
+      "text": "Open a case  For an order issue, cancellation, missing item, defect, damaged item or return, email Anvith.mantravadI@gmail.com or contact (908) 415-4730. Include your order reference and a short explanation. Photos help where available. Avoid sending bank credentials or unnecessary personal information.\n\nHow we review  We locate the request, review the product and handoff record and ask for relevant details if needed. We explain the proposed next step and any return instructions. We do not promise a fixed response time until staffing and opening hours are confirmed.\n\nAvailable remedies  The appropriate remedy may include correction, replacement, repair, cancellation or refund, depending on the issue and applicable law. The standard unused-item return window is 30 days after receipt. This voluntary window does not shorten statutory remedies for defective or misdescribed goods.\n\nEscalation  If a proposed resolution does not address your issue, reply to the same email and ask for an owner review. These procedures do not remove rights to contact a regulator or use remedies available under applicable law."
+    },
+    "practices": {
+      "title": "How we run the store",
+      "text": "Product selection and variations  We offer the products and color choices shown in the catalog. Descriptions identify intended use and age suitability. We confirm material, dimensions, color availability and any material change before fulfillment.\n\nPricing and costs  Prices and discounts are shown before checkout. The store evaluates filament, print time, energy, failed prints, labor, packaging, fulfillment and other costs when setting prices. Admin includes a calculator for actual operating inputs.\n\nSafety and quality  The store reviews small parts, edges, breakage, foreseeable use and applicable product requirements. Production checks include model accuracy, color, surface condition and quantity. We do not claim that website policies alone establish product compliance.\n\nDesign ownership  Selling a print requires the relevant commercial rights or another lawful basis. Design permissions, attributions and licenses must match the model and commercial use. A physical purchase does not automatically transfer digital files or reproduction rights.\n\nBusiness registration, tax and records  The seller must complete applicable registration, tax collection and recordkeeping requirements and assess insurance needs. These operational steps are tracked in the Admin readiness checklist. Their presence in the checklist does not mean they have been completed.\n\nOrdering and local fulfillment  Adult buyers review itemized prices, colors, New Jersey tax and cash due. Parcel shipping is currently disabled. Production capacity, packaging and local handoff arrangements are confirmed after review.\n\nReturns and customer support  Our standard return window is 30 days after receipt for unused, undamaged products, subject to the Returns policy and preserved consumer rights. Order problems can be raised through Customer Service and the case-resolution process.\n\nMarketing, reviews and analytics  Marketing is directed to adults and parents buying for users aged 13+. Product visualizations are identified. Reviews and performance claims must be genuine and supportable. Current Admin metrics are based on saved orders, statuses and recorded cash, not invented visitor counts. Optional analytics or advertising trackers require updated notices and controls before use.\n\nProduction and growth  Admin provides order stages, planned and actual print time, a handoff schedule, inventory and completion checklists. Capacity decisions use the store\u2019s real records and available printer time."
+    }
+  },
+  "schemaVersion": 3,
+  "supportEmail": "anvith206@gmail.com",
+  "returnDays": 30,
+  "zelleQrImage": "",
+  "mixBundles": true,
+  "shippingEnabled": false,
+  "orderEmail": "Anvith.mantravadI@gmail.com",
+  "paymentMethod": "cash_on_delivery",
+  "adultOnly": true,
+  "productAge": "13+",
+  "deliveryArea": "New Jersey local handoff by confirmation"
+}

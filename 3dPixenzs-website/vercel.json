@@ -1,0 +1,8 @@
+{
+  "framework": null,
+  "buildCommand": "",
+  "rewrites": [
+    { "source": "/", "destination": "/api/site?__site_path=/" },
+    { "source": "/:path*", "destination": "/api/site?__site_path=/:path*" }
+  ]
+}
